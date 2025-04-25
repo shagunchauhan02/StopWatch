@@ -1,4 +1,4 @@
-# WebPr
+# StopWatch
 🚀 Purple-Pink Themed Stopwatch ⏱️💜💖
 A sleek and stylish dark-themed stopwatch with a mesmerizing purple and pink gradient design! 🌌✨ Built using HTML, CSS, and JavaScript, this stopwatch features:
 ✅ Smooth animations & transitions 🎭
